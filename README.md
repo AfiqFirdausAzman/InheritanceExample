@@ -1,0 +1,2 @@
+# InheritanceExample
+Inheritance coding example
